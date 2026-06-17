@@ -24,15 +24,15 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=shubhamkumarmaurya&style=for-the-badge&color=0a3d62&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/MauryaShubhamkumar)
-[![GitHub Followers](https://img.shields.io/github/followers/shubhamkumarmaurya?style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&label=FOLLOWERS)](https://github.com/MauryaShubhamkumar)
-[![GitHub Stars](https://img.shields.io/github/stars/shubhamkumarmaurya?style=for-the-badge&color=ffd700&labelColor=0d1117&logo=github&label=STARS)](https://github.com/MauryaShubhamkumar)
+[![Profile Views](https://komarev.com/ghpvc/?username=MauryaShubhamkumar&style=for-the-badge&color=0a3d62&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/MauryaShubhamkumar)
+[![GitHub Followers](https://img.shields.io/github/followers/MauryaShubhamkumar?style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&label=FOLLOWERS)](https://github.com/MauryaShubhamkumar)
+[![GitHub Stars](https://img.shields.io/github/stars/MauryaShubhamkumar?style=for-the-badge&color=ffd700&labelColor=0d1117&logo=github&label=STARS)](https://github.com/MauryaShubhamkumar)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/shubhamkm0111/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://skm-portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:shubhskm0111@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:2022ucs0111@iitjammu.ac.in)
 [![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117)](https://leetcode.com/u/maurya0111/)
 
 </div>
@@ -185,7 +185,7 @@ const shubham = {
 <td width="50%" valign="top">
 
 ### 🏥 Agent-Based EHR Risk Management System
-> **Agentic AI · LangChain · RAG · Django · React**
+> **Agentic AI · LangChain · Mistral · Django · React**
 
 An intelligent multi-agent system that analyzes Electronic Health Records to predict patient risks, flag anomalies, and assist clinical decision-making using LLMs and retrieval-augmented generation.
 
@@ -195,7 +195,7 @@ An intelligent multi-agent system that analyzes Electronic Health Records to pre
 - 🔍 RAG pipeline for medical literature retrieval
 - 📋 Real-time clinical decision support
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/shubhamkumarmaurya)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/MauryaShubhamkumar/Agentic-Ai-in-Healthcare.git)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
@@ -203,21 +203,21 @@ An intelligent multi-agent system that analyzes Electronic Health Records to pre
 </td>
 <td width="50%" valign="top">
 
-### 💰 AI Financial Analyst Chatbot (RAG)
-> **RAG · Gemini API · LangChain · React · Node.js**
+### 💰 Infosys Financial Analyst Chatbot (RAG)
+> **RAG · Gemini API · LangChain · FAISS · Streamlit**
 
 A conversational AI chatbot that ingests financial documents, earnings reports, and market data to answer complex investment queries using advanced RAG architecture.
 
 **Key Features:**
-- 📈 Real-time financial data ingestion
-- 🔗 Vector database for semantic search
-- 💬 Multi-turn contextual conversations
-- 📉 Market trend summarization
+- 📈 Multi-document ingestion (PDF, Excel, stock data)
+- 🔗 Semantic search with FAISS embeddings
+- 💬 Conversational memory for contextual queries
+- 📉 Automated PDF & Excel report generation
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/shubhamkumarmaurya)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/MauryaShubhamkumar/infosys-financial-chatbot.git)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </td>
 </tr>
@@ -226,7 +226,7 @@ A conversational AI chatbot that ingests financial documents, earnings reports, 
 <td width="50%" valign="top">
 
 ### 💬 Real-Time Chat Application
-> **Node.js · Socket.io · React · MongoDB**
+> **Next.js · Django · Socket.io · SQLite**
 
 A production-grade real-time messaging platform with WebSocket support, end-to-end message delivery, typing indicators, and room-based conversations.
 
@@ -236,29 +236,29 @@ A production-grade real-time messaging platform with WebSocket support, end-to-e
 - 🏠 Public/private room support
 - 📱 Fully responsive UI
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/shubhamkumarmaurya)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/MauryaShubhamkumar/fast_chat.git)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛰️ River Morphological Change Detection (AI/ML)
-> **PyTorch · CNN · Satellite Imagery · Remote Sensing**
+> **PyTorch · CNN · Satellite Imagery · QGIS · Remote Sensing**
 
 A deep learning pipeline to detect and quantify river morphological changes using multi-temporal satellite imagery — developed during Research Internship at IIT Mandi.
 
 **Key Features:**
 - 🛰️ Satellite image segmentation (CNN)
 - 📐 Change detection & temporal analysis
-- 🗺️ GIS integration for visualization
+- 🗺️ GIS integration via QGIS
 - 📊 Quantitative morphology metrics
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/shubhamkumarmaurya)
+[![Report](https://img.shields.io/badge/View_Report-0d1117?style=for-the-badge&logo=google)](https://docs.google.com/document/d/12WxUOZecE-yr4QKdgJw_e15QMzbAFiHkJe7jl4Sp2ew/edit)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 
 </td>
 </tr>
@@ -267,39 +267,80 @@ A deep learning pipeline to detect and quantify river morphological changes usin
 <td width="50%" valign="top">
 
 ### 🏗️ Healthcare Operations Management System
-> **Django · React · MySQL · REST API**
+> **Python · Streamlit · MySQL · Payment Integration**
 
 A comprehensive hospital operations platform managing appointments, patient records, staff scheduling, and inventory — with analytics dashboards and reporting.
 
 **Key Features:**
 - 📅 Appointment scheduling engine
 - 📋 Patient record management
-- 📦 Inventory & pharmacy module
-- 📊 Admin analytics dashboard
+- 💳 Integrated wallet & billing system
+- 📊 Automated health record management
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/shubhamkumarmaurya)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/MauryaShubhamkumar/DBMS-Project)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📊 Algorithm Visualization Tool
-> **React · JavaScript · CSS Animations**
+> **HTML · Tailwind CSS · JavaScript · Async/Await**
 
-An interactive, animated visualization platform for 30+ sorting, searching, and graph algorithms — built as an educational tool for the IIT Jammu Coding Club.
+An interactive, animated visualization platform for sorting and searching algorithms — built as an educational tool for the IIT Jammu Coding Club.
 
 **Key Features:**
 - 🎨 Step-by-step animated execution
-- ⚙️ Custom input & speed control
+- ⚙️ Custom array size, speed & algorithm controls
 - 📈 Big-O complexity display
-- 🌐 20+ algorithms visualized
+- 🌐 Multiple algorithms visualized
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/shubhamkumarmaurya)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/MauryaShubhamkumar/Algorithm-Visualizer.git)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Chatbot
+> **React.js · Gemini AI API · JavaScript**
+
+A responsive AI chatbot powered by Google's Gemini API with a clean, mobile-friendly interface for real-time intelligent conversations.
+
+**Key Features:**
+- 💬 Real-time AI-powered responses
+- 📱 Fully responsive UI/UX
+- ⚡ Seamless Gemini API integration
+- 🎨 Clean, modern interface
+
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/MauryaShubhamkumar/AI-Chat-Bot.git)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍔 FastBite: Food Delivery Web App
+> **React.js · Bootstrap · JavaScript**
+
+A responsive food delivery web application with cart management, order placement, and payment features.
+
+**Key Features:**
+- 🔍 Search functionality
+- 🛒 Cart management system
+- 💳 Payment integration
+- 📱 Dynamic, interactive UI components
+
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/MauryaShubhamkumar/Food-Delivery-Web)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 </td>
 </tr>
@@ -330,17 +371,19 @@ An interactive, animated visualization platform for 30+ sorting, searching, and 
 ║           🏛️  RESEARCH INTERNSHIP  •  IIT MANDI                     ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║  Project  : River Morphological Change Detection using AI/ML         ║
-║  Domain   : Remote Sensing · Deep Learning · Geospatial Analysis     ║
-║  Stack    : PyTorch · TensorFlow · Scikit-learn · GIS Tools          ║
+║  Project  : Vision-Language Models for Ultrasound Image Quality      ║
+║  Domain   : VLMs · Medical Imaging · Probe Motion Guidance           ║
+║  Stack    : LLaVA · BLIP-2 · GPT-4V · PyTorch · Custom Datasets     ║
 ║                                                                      ║
-║  ▸ Designed CNN-based segmentation models for satellite imagery      ║
-║  ▸ Built multi-temporal change detection pipeline                    ║
-║  ▸ Quantified erosion/deposition patterns using ML algorithms        ║
-║  ▸ Contributed to academic research publication                      ║
+║  ▸ Researched VLMs (LLaVA, BLIP-2, GPT-4V) for ultrasound guidance  ║
+║  ▸ Built & labeled custom dataset with image quality annotations     ║
+║  ▸ Designed prompt-based probe adjustment suggestion methods         ║
+║  ▸ River morphology study: CNN segmentation on Landsat imagery       ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
+
+[![Research Repo](https://img.shields.io/badge/Ultrasound_VLM_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/MauryaShubhamkumar/Ultrasound_Report_Generation.git)
 
 </div>
 
@@ -362,7 +405,7 @@ An interactive, animated visualization platform for 30+ sorting, searching, and 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shubhamkumarmaurya)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/maurya0111/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shubhamkumarmaurya)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/shubhamkumarmaurya)
 
@@ -433,145 +476,9 @@ An interactive, animated visualization platform for 30+ sorting, searching, and 
 
 <div align="center">
 
-## 📊 GitHub Analytics
 
-</div>
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhamkumarmaurya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumarmaurya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkumarmaurya&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamkumarmaurya&theme=react-dark&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&area_color=0a3d62" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shubhamkumarmaurya&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   LEADERSHIP & IMPACT                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 👥 Leadership & Impact
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🎯 Nexus Tech Competition
-**Convener**
-
-Led the flagship inter-college technical competition at IIT Jammu — coordinating 10+ events, managing cross-functional teams, and delivering an experience for 500+ participants.
-
-`Event Management` `Team Leadership` `Coordination`
-
-</td>
-<td width="33%" align="center">
-
-### 🧑‍🏫 Coding Club Mentor
-**Technical Mentor**
-
-Mentored 50+ juniors in Data Structures, Algorithms, and competitive programming — conducting weekly sessions, mock contests, and code reviews to accelerate learning.
-
-`DSA Teaching` `Mentorship` `CP Coaching`
-
-</td>
-<td width="33%" align="center">
-
-### ⚡ Technical Event Leader
-**Lead Organizer**
-
-Designed and executed multiple hackathons, coding contests, and tech talks — bridging the gap between academia and industry at IIT Jammu.
-
-`Hackathons` `Tech Talks` `Community Building`
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    OPEN SOURCE GOALS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🌐 Open Source Goals
-
-</div>
-
-<div align="center">
-
-```
-  ┌─────────────────────────────────────────────────────────────────┐
-  │                                                                  │
-  │   🎯  CURRENTLY CONTRIBUTING TO                                  │
-  │                                                                  │
-  │   ▸ LangChain ecosystem — agent tools & memory modules          │
-  │   ▸ Open-source AI health-tech projects                         │
-  │   ▸ Algorithm visualization libraries                           │
-  │                                                                  │
-  │   🚀  2025 OPEN SOURCE TARGETS                                   │
-  │                                                                  │
-  │   ✅  Publish reusable RAG pipeline library (Python)             │
-  │   ✅  Contribute to HuggingFace Transformers                     │
-  │   ✅  Open-source Healthcare AI toolkit                          │
-  │   ✅  Build developer tools for Agentic AI                       │
-  │   ✅  Write technical blogs on AI/ML concepts                    │
-  │                                                                  │
-  └─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   SKILLS PROGRESS BARS                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
 
 ## 🧠 Expertise Depth
 
@@ -604,10 +511,10 @@ Research & Analysis       ████████████░░░░░░
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Kumar%20Maurya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamkumarmaurya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-shubhamkumarmaurya.dev-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://shubhamkumarmaurya.dev)
-[![Email](https://img.shields.io/badge/Email-shubham%40iitjammu.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham@iitjammu.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-@shubhamkumarmaurya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamkumarmaurya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhamkm0111-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamkm0111/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-skm--portfolio.netlify.app-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://skm-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-2022ucs0111@iitjammu.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2022ucs0111@iitjammu.ac.in)
+[![GitHub](https://img.shields.io/badge/GitHub-MauryaShubhamkumar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MauryaShubhamkumar)
 
 </div>
 
