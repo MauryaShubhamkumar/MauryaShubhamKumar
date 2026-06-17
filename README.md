@@ -24,16 +24,16 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=shubhamkumarmaurya&style=for-the-badge&color=0a3d62&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/MauryaShubhamkumar)
-[![GitHub Followers](https://img.shields.io/github/followers/shubhamkumarmaurya?style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&label=FOLLOWERS)](https://github.com/MauryaShubhamkumar)
-[![GitHub Stars](https://img.shields.io/github/stars/shubhamkumarmaurya?style=for-the-badge&color=ffd700&labelColor=0d1117&logo=github&label=STARS)](https://github.com/MauryaShubhamkumar)
+[![Profile Views](https://komarev.com/ghpvc/?username=MauryaShubhamkumar&style=for-the-badge&color=0a3d62&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/MauryaShubhamkumar)
+[![GitHub Followers](https://img.shields.io/github/followers/MauryaShubhamkumar?style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&label=FOLLOWERS)](https://github.com/MauryaShubhamkumar)
+[![GitHub Stars](https://img.shields.io/github/stars/MauryaShubhamkumar?style=for-the-badge&color=ffd700&labelColor=0d1117&logo=github&label=STARS)](https://github.com/MauryaShubhamkumar)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/shubhamkm0111/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://skm-portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:shubhskm0111@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117)](https://leetcode.com/u/maurya0111/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:2022ucs0111@iitjammu.ac.in)
+[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117)](https://leetcode.com/shubhamkumarmaurya)
 
 </div>
 
@@ -94,7 +94,7 @@ const shubham = {
 
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/MauryaShubhamkumar/MauryaShubhamkumar/output/github-contribution-grid-snake-dark.svg)
 
 </td>
 </tr>
@@ -195,7 +195,7 @@ An intelligent multi-agent system that analyzes Electronic Health Records to pre
 - 🔍 RAG pipeline for medical literature retrieval
 - 📋 Real-time clinical decision support
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/shubhamkumarmaurya)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/MauryaShubhamkumar/Agentic-Ai-in-Healthcare)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
@@ -214,7 +214,7 @@ A conversational AI chatbot that ingests financial documents, earnings reports, 
 - 💬 Multi-turn contextual conversations
 - 📉 Market trend summarization
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/shubhamkumarmaurya)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/MauryaShubhamkumar/infosys-financial-chatbot)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -236,7 +236,7 @@ A production-grade real-time messaging platform with WebSocket support, end-to-e
 - 🏠 Public/private room support
 - 📱 Fully responsive UI
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/shubhamkumarmaurya)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/MauryaShubhamkumar/fast_chat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -255,7 +255,7 @@ A deep learning pipeline to detect and quantify river morphological changes usin
 - 🗺️ GIS integration for visualization
 - 📊 Quantitative morphology metrics
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/shubhamkumarmaurya)
+[![Report](https://img.shields.io/badge/View_Report-0d1117?style=for-the-badge&logo=google)](https://docs.google.com/document/d/12WxUOZecE-yr4QKdgJw_e15QMzbAFiHkJe7jl4Sp2ew/edit)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -277,7 +277,7 @@ A comprehensive hospital operations platform managing appointments, patient reco
 - 📦 Inventory & pharmacy module
 - 📊 Admin analytics dashboard
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/shubhamkumarmaurya)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/MauryaShubhamkumar/DBMS-Project)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -296,7 +296,7 @@ An interactive, animated visualization platform for 30+ sorting, searching, and 
 - 📈 Big-O complexity display
 - 🌐 20+ algorithms visualized
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/shubhamkumarmaurya)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/MauryaShubhamkumar/Algorithm-Visualizer)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -330,15 +330,16 @@ An interactive, animated visualization platform for 30+ sorting, searching, and 
 ║           🏛️  RESEARCH INTERNSHIP  •  IIT MANDI                     ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║  Project  : River Morphological Change Detection using AI/ML         ║
-║  Domain   : Remote Sensing · Deep Learning · Geospatial Analysis     ║
-║  Stack    : PyTorch · TensorFlow · Scikit-learn · GIS Tools          ║
+║  Project  : Vision-Language Models for Ultrasound Image Enhancement  ║
+║  Domain   : VLMs · Medical Imaging · Probe Motion Guidance           ║
+║  Stack    : LLaVA · BLIP-2 · GPT-4V · Custom Dataset                ║
 ║                                                                      ║
-║  ▸ Designed CNN-based segmentation models for satellite imagery      ║
-║  ▸ Built multi-temporal change detection pipeline                    ║
-║  ▸ Quantified erosion/deposition patterns using ML algorithms        ║
-║  ▸ Contributed to academic research publication                      ║
+║  ▸ Researched VLMs (LLaVA, BLIP-2, GPT-4V) for probe motion         ║
+║  ▸ Built & labeled a custom dataset of ultrasound image issues       ║
+║  ▸ Designed prompt-based methods for image quality improvement       ║
+║  ▸ Contributed to academic research on medical AI                    ║
 ║                                                                      ║
+║  🔗 github.com/MauryaShubhamkumar/Ultrasound_Report_Generation       ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -439,22 +440,14 @@ An interactive, animated visualization platform for 30+ sorting, searching, and 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhamkumarmaurya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumarmaurya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauryaShubhamkumar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauryaShubhamkumar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkumarmaurya&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamkumarmaurya&theme=react-dark&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&area_color=0a3d62" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MauryaShubhamkumar&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e" />
 
 </div>
 
@@ -462,7 +455,15 @@ An interactive, animated visualization platform for 30+ sorting, searching, and 
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shubhamkumarmaurya&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MauryaShubhamkumar&theme=react-dark&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&area_color=0a3d62" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MauryaShubhamkumar&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -604,10 +605,10 @@ Research & Analysis       ████████████░░░░░░
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Kumar%20Maurya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamkumarmaurya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-shubhamkumarmaurya.dev-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://shubhamkumarmaurya.dev)
-[![Email](https://img.shields.io/badge/Email-shubham%40iitjammu.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham@iitjammu.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-@shubhamkumarmaurya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamkumarmaurya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Kumar%20Maurya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamkm0111/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-skm--portfolio.netlify.app-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://skm-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-2022ucs0111%40iitjammu.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2022ucs0111@iitjammu.ac.in)
+[![GitHub](https://img.shields.io/badge/GitHub-@MauryaShubhamkumar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MauryaShubhamkumar)
 
 </div>
 
