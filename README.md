@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=🚀+Building+Intelligent+Systems+from+IIT+Jammu;🤖+Agentic+AI+%7C+RAG+%7C+LLM+Applications;💻+Full+Stack+Engineer+%7C+React+%2B+Node+%2B+Django;🏆+600%2B+Problems+Solved+%7C+Competitive+Programmer;🔬+Research+Intern+%40+IIT+Mandi;🌟+Open+Source+Contributor+%7C+Tech+Leader)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=🚀+Building+Intelligent+Systems+from+IIT+Jammu;🤖+Agentic+AI+%7C+RAG+%7C+LLM+Applications;💻+Full+Stack+Engineer+%7C+React+%2B+Node+%2B+Django;🏆+1000%2B+Problems+Solved+%7C+Competitive+Programmer;🔬+Research+Intern+%40+IIT+Mandi;🌟+Open+Source+Contributor+%7C+Tech+Leader)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,7 +32,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/shubhamkm0111/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://skm-portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:2022ucs0111@iitjammu.ac.in)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:shubhskm0111@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117)](https://leetcode.com/u/maurya0111/)
 
 </div>
@@ -406,8 +406,7 @@ A responsive food delivery web application with cart management, order placement
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/maurya0111/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shubhamkumarmaurya)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/shubhamkumarmaurya)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Shubham_km)
 
 <br/>
 
@@ -450,7 +449,7 @@ A responsive food delivery web application with cart management, order placement
 ┌──────────────────────┐
 │  🎯 Key Achievements  │
 ├──────────────────────┤
-│  600+ Problems       │
+│  1000+ Problems       │
 │  Ranked Contestant   │
 │  Codeforces Rated    │
 │  CP Mentor @ Club    │
